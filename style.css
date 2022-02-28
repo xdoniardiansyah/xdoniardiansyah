@@ -1,0 +1,22 @@
+html {
+  scroll-margin-top: 6rem;
+  scroll-behavior: smooth;
+  height: 100%;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #98c1d9;
+}
+
+#about {
+  background-color: #ffffff;
+}
+
+#projects {
+  background-color: #98c1d9;
+}
+
+section {
+  padding-top: 5rem;
+}
